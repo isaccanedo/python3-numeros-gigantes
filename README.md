@@ -1,4 +1,4 @@
-# Nomeador de Números Gigantes em Python 3
+## Nomeador de Números Gigantes em Python 3
 
 Execute o arquivo "iniciar.bat" para iniciar o programa no prompt de comando do Windows. 
 
